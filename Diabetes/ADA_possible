@@ -77,7 +77,7 @@ Glucose Monitoring has been revised to highlight the need for patients on intens
 Pharmacological and Overall Approaches to Treatment has been revised to add a section with more specific recommendations for insulin therapy in type 1 diabetes . 
 Diabetes Self-Management Education and Support has been revised to be consistent with the newly revised 
 National Standards for Diabetes SelfManagement Education and Support . 
-
+Hypoglycemia has been revised to emphasize the need to assess hypoglycemia and cognitive function when indicated . 
 Immunization has been updated to include the new Centers for Disease Control and Prevention -LRB- CDC -RRB- recommendations for hepatitis B vaccination for people with diabetes . 
 Hypertension/Blood Pressure Control has been revised to suggest that the systolic blood pressure goal for many people with diabetes and hypertension should be < 140 mmHg , but that lower systolic targets -LRB- such as < 130 mmHg -RRB- may be appropriate for certain individuals , such as younger patients , if it can be achieved without undue treatment burden . 
 Dyslipidemia/Lipid Management and Table 10 have been revised to emphasize the importance of statin therapy over particular LDL cholesterol goals in high-risk patients . 
@@ -135,7 +135,7 @@ Therefore , a reasonable A1C goal for many nonpregnant adults is < 7 % .
 • Providers might reasonably suggest more stringent A1C goals -LRB- such as < 6.5 % -RRB- for selected individual patients , if this can be achieved without significant hypoglycemia or other adverse effects of treatment . 
 Appropriate patients might include those with short duration of diabetes , long life expectancy , and no significant CVD . 
 • Less stringent A1C goals -LRB- such as < 8 % -RRB- may be appropriate for patients with a history of severe hypoglycemia , limited life expectancy , advanced microvascular or macrovascular complications , extensive comorbid conditions , and those with long-standing diabetes in whom the general goal is difficult to attain despite diabetes self-management education -LRB- DSME -RRB- , appropriate glucose monitoring , and effective doses of multiple glucose-lowering agents including insulin . 
-
+Pharmacological and overall approaches to treatment 
 Insulin therapy for type 1 diabetes 
 • Most people with type 1 diabetes should be treated with MDI injections -LRB- three to four injections per day of basal and prandial insulin -RRB- or continuous subcutaneous insulin infusion -LRB- CSII -RRB- . 
 • Most people with type 1 diabetes should be educated in how to match prandial insulin dose to carbohydrate intake , premeal blood glucose , and anticipated activity . 
@@ -182,7 +182,7 @@ Macronutrients in diabetes management • The mix of carbohydrate , protein , an
 If SMBG 15 min after treatment shows continued hypoglycemia , the treatment should be repeated . 
 Once SMBG glucose returns to normal , the individual should consume a meal or snack to prevent recurrence of hypoglycemia . 
 • Glucagon should be prescribed for all individuals at significant risk of severe hypoglycemia , and caregivers or family members of these individuals should be instructed on its administration . 
-
+Glucagon administration is not limited to health care professionals . 
 • Hypoglycemia unawareness or one or more episodes of severe hypoglycemia should trigger re-evaluation of the treatment regimen . 
 • Insulin-treated patients with hypoglycemia unawareness or an episode of severe hypoglycemia should be advised to raise their glycemic targets to strictly avoid further hypoglycemia for at least several weeks , to partially reverse hypoglycemia unawareness , and to reduce risk of future episodes . 
 • Ongoing assessment of cognitive function is suggested with increased vigilance for hypoglycemia by the clinician , patient , and caregivers if low cognition and/or declining cognition is found . 
@@ -231,7 +231,7 @@ This includes most men aged > 50 years or women aged > 60 years who have at leas
 • Use aspirin therapy -LRB- 75 -- 162 mg/day -RRB- as a secondary prevention strategy in those with diabetes with a history of CVD . 
 • For patients with CVD and documented aspirin allergy , clopidogrel -LRB- 75 mg/day -RRB- should be used . 
 • Combination therapy with aspirin -LRB- 75 -- 162 mg/day -RRB- and clopidogrel -LRB- 75 mg/day -RRB- is reasonable for up to a year after an acute coronary syndrome . 
-
+• Advise all patients not to smoke or use tobacco products . 
 • Include smoking cessation counseling and other forms of treatment as a routine component of diabetes care . 
 • In asymptomatic patients , routine screening for coronary artery disease -LRB- CAD -RRB- is not recommended , as it does not improve outcomes as long as CVD risk factors are treated . 
 • In patients with known CVD , consider ACE inhibitor therapy -LRB- C -RRB- and use aspirin and statin therapy -LRB- A -RRB- -LRB- if not contraindicated -RRB- to reduce the risk of cardiovascular events . 
@@ -349,7 +349,7 @@ Episodes of hypoglycemia in the hospital should be documented in the medical rec
 • Patients with hyperglycemia in the hospital who do not have a prior diagnosis of diabetes should have appropriate plans for follow-up testing and care documented at discharge . 
 Strategies for improving diabetes care 
 • Care should be aligned with components of the Chronic Care Model -LRB- CCM -RRB- to ensure productive interactions between a prepared proactive practice team and an informed activated patient . 
-
+• When feasible , care systems should support team-based care , community involvement , patient registries , and embedded decision support tools to meet patient needs . 
 • Treatment decisions should be timely and based on evidence-based guidelines that are tailored to individual patient preferences , prognoses , and comorbidities . 
 • A patient-centered communication style should be employed that incorporates patient preferences , assesses literacy and numeracy , and addresses cultural barriers to care . 
 Standards of Medical Care in Diabetes : 2013 
@@ -452,7 +452,7 @@ In a communitybased study of black and white adults without diabetes , baseline 
 Other analyses suggest that an A1C of 5.7 % is associated with diabetes risk similar to that in the highrisk participants in the Diabetes Prevention Program -LRB- DPP -RRB- -LRB- 17 -RRB- . 
 Criteria for the diagnosis of diabetes 
 The test should be performed in a laboratory using a method that is NGSP 
-
+certified and standardized to the DCCT assay . 
 defined as no caloric intake for at least 8 h. * OR 
 2-h plasma glucose > = 200 mg/dL -LRB- 11.1 mmol/L -RRB- during an OGTT . 
 The test should be performed as described by the WHO , using 
@@ -471,7 +471,7 @@ In those without these risk factors , testing should begin at age 45 .
 • To test for diabetes or prediabetes , the A1C , FPG , or 75-g 2-h OGTT are appropriate . 
 • In those identified with prediabetes , identify and , if appropriate , treat other CVD risk factors . 
 Categories of increased risk for diabetes -LRB- prediabetes -RRB- * 
-
+FPG 100 mg/dL -LRB- 5.6 mmol/L -RRB- to 125 mg/dL 
 2-h plasma glucose in the 75-g OGTT 140 mg/dL -LRB- 7.8 mmol/L -RRB- to 199 mg/dL -LRB- 11.0 mmol/L -RRB- -LRB- IGT -RRB- 
 * For all three tests , risk is continuous , extending below the lower limit of the range and becoming disproportionately greater at higher ends of the range . 
 For many illnesses , there is a major distinction between screening and diagnostic testing . 
@@ -483,7 +483,7 @@ Testing for type 2 diabetes and risk of future diabetes in adults
 Prediabetes and diabetes meet established criteria for conditions in which early detection is appropriate . 
 Both conditions are common , increasing in prevalence , and impose significant public health burdens . 
 There is a long presymptomatic phase before the diagnosis of type 2 diabetes is usually made . 
-
+Relatively simple tests are available to detect preclinical disease . 
 Additionally , the duration of glycemic burden is a strong predictor of adverse outcomes , and effective interventions exist to prevent progression of prediabetes to diabetes -LRB- see Section IV -RRB- and to reduce risk of complications of diabetes -LRB- see Section VI -RRB- . 
 Type 2 diabetes is frequently not diagnosed until complications appear , and approximately one-fourth of all people with diabetes in the U.S. may be undiagnosed . 
 The effectiveness of early identification of prediabetes and diabetes through mass testing of asymptomatic individuals has not been proven definitively , and rigorous trials to provide such proof are unlikely to occur . 
@@ -624,7 +624,7 @@ Components of the comprehensive diabetes evaluation
 • Results of glucose monitoring and patient 's use of data 
 • History of diabetes-related complications 
 • Microvascular : retinopathy , nephropathy , neuropathy -LRB- sensory , including history of foot lesions ; autonomic , including sexual dysfunction and gastroparesis -RRB- 
-
+• Blood pressure determination , including orthostatic measurements when indicated 
 • Skin examination -LRB- for acanthosis nigricans and insulin injection sites -RRB- 
 • Palpation of dorsalis pedis and posterior tibial pulses 
 • Presence/absence of patellar and Achilles reflexes 
@@ -652,7 +652,7 @@ a.
 • Continuous glucose monitoring -LRB- CGM -RRB- in conjunction with intensive insulin regimens can be a useful tool to lower A1C in selected adults -LRB- aged > = 25 years -RRB- with type 1 diabetes . 
 • Although the evidence for A1C lowering is less strong in children , teens , and younger adults , CGM may be helpful in these groups . 
 Success correlates with adherence to ongoing use of the device . 
-
+• CGM may be a supplemental tool to 
 SMBG in those with hypoglycemia unawareness and/or frequent hypoglycemic episodes . 
 Major clinical trials of insulin-treated patients that demonstrated the benefits of intensive glycemic control on diabetes complications have included SMBG as part of multifactorial interventions , suggesting that SMBG is a component of effective therapy . 
 SMBG allows patients to evaluate their individual response to therapy and assess whether glycemic targets are being achieved . 
@@ -693,7 +693,7 @@ For any individual patient , the frequency of A1C testing should be dependent on
 Some patients with stable glycemia well within target may do well with testing only twice per year , while unstable or highly intensively managed patients -LRB- e.g. , pregnant type 1 diabetic women -RRB- may be tested more frequently than every 3 months . 
 The availability of the A1C result at the time that the patient is seen -LRB- POC testing -RRB- has been reported in small studies to result in increased intensification of therapy and improvement in glycemic control -LRB- 73,74 -RRB- . 
 However , two recent systematic reviews and meta-analyses found no significant difference in A1C between POC and laboratory A1C usage -LRB- 75,76 -RRB- . 
-
+The A1C test is subject to certain limitations . 
 Conditions that affect erythrocyte turnover -LRB- hemolysis , blood loss -RRB- and hemoglobin variants must be considered , particularly when the A1C result does not correlate with the patient 's clinical situation -LRB- 63 -RRB- . 
 In addition , A1C does not provide a measure of glycemic variability or hypoglycemia . 
 For patients prone to glycemic variability -LRB- especially type 1 diabetic patients or type 2 diabetic patients with severe insulin deficiency -RRB- , glycemic control is best judged by the combination of results of self-monitoring and the A1C . 
@@ -754,7 +754,7 @@ However , excess mortality in the intensive versus standard arms was only signif
 Severe hypoglycemia was associated with excess mortality in either arm , but the association was stronger in those randomized to the standard glycemic control arm -LRB- 97 -RRB- . 
 Unlike the case with the DCCT trial , where lower achieved A1C levels were related to significantly increased rates of severe hypoglycemia , in ACCORD every 1 % decline in A1C from baseline to 4 months into the trial was associated with a significant decrease in the rate of severe hypoglycemia in both arms -LRB- 96 -RRB- . 
 The primary outcome of ADVANCE was a combination of microvascular events -LRB- nephropathy and retinopathy -RRB- and major adverse cardiovascular events -LRB- MI , stroke , and cardiovascular death -RRB- . 
-
+Intensive glycemic control -LRB- to a goal A1C < 6.5 % vs. treatment to local standards -RRB- significantly reduced the primary end point . 
 However , this was due to a significant reduction in the microvascular outcome , primarily development of macroalbuminuria , with no significant reduction in the macrovascular outcome . 
 There was no difference in overall or cardiovascular mortality between the intensive compared with the standard glycemic control arms -LRB- 88 -RRB- . 
 The VADT randomized participants with type 2 diabetes uncontrolled on insulin or maximal-dose oral agents -LRB- median entry A1C 9.4 % -RRB- to a strategy of intensive glycemic control -LRB- goal A1C < 6.0 % -RRB- or standard glycemic control , with a planned A1C separation of at least 1.5 % . 
@@ -784,7 +784,7 @@ Glycemic goals for children are provided in Section VIII.A .1 .
 a. 
 As regards goals for glycemic control for women with GDM , recommendations from the fifth International Workshop-Conference on Gestational Diabetes Mellitus -LRB- 105 -RRB- were to target maternal capillary glucose concentrations of : 
 For women with pre-existing type 1 or type 2 diabetes who become pregnant , a recent consensus statement -LRB- 106 -RRB- recommended the following as optimal glycemic goals , if they can be achieved without excessive hypoglycemia : 
-
+Pharmacological and overall approaches to treatment 
 Insulin therapy for type 1 diabetes 
 • Most people with type 1 diabetes should be treated with MDI injections -LRB- three to four injections per day of basal and prandial insulin -RRB- or continuous subcutaneous insulin infusion -LRB- CSII -RRB- . 
 • Most people with type 1 diabetes should be educated in how to match prandial insulin dose to carbohydrate intake , premeal blood glucose , and anticipated activity . 
@@ -819,7 +819,7 @@ This 2012 position statement is less prescriptive than prior algorithms and disc
 A patient-centered approach is stressed , taking into account patient preferences , cost and potential side effects of each class , effects on body weight , and hypoglycemia risk . 
 The position statement reaffirms metformin as the preferred initial agent , barring contraindication or intolerance , either in addition to lifestyle counseling and support for weight loss and exercise , or when lifestyle efforts alone have not achieved or maintained glycemic goals . 
 Metformin has a long-standing evidence base for efficacy and safety , is inexpensive , and may reduce risk of cardiovascular events -LRB- 85 -RRB- . 
-
+When metformin fails to achieve or maintain glycemic goals , another agent should be added . 
 Although there are a number of trials comparing dual therapy to metformin alone , few directly compare drugs as add-on therapy . 
 Comparative effectiveness meta-analyses -LRB- 112 -RRB- suggest that overall each new class of noninsulin agents added to initial therapy lowers A1C around 0.9 -- 1.1 % . 
 Many patients with type 2 diabetes eventually benefit from insulin therapy . 
@@ -918,7 +918,7 @@ Although DSMS has been shown to be instrumental for improving outcomes , as desc
 • Adults with diabetes should be advised to perform at least 150 min/week of moderate-intensity aerobic physical activity -LRB- 50 -- 70 % of maximum heart rate -RRB- , spread over at least 3 days/week with no more than two consecutive days without exercise . 
 • In the absence of contraindications , adults with type 2 diabetes should be encouraged to perform resistance training at least twice per week . 
 Exercise is an important part of the diabetes management plan . 
-
+Regular exercise has been shown to improve blood glucose control , reduce cardiovascular risk factors , contribute to weight loss , and improve well-being . 
 Furthermore , regular exercise may prevent type 2 diabetes in high-risk individuals -LRB- 23 -- 25 -RRB- . 
 Structured exercise interventions of at least 8 weeks ' duration have been shown to lower A1C by an average of 0.66 % in people with type 2 diabetes , even with no significant change in BMI -LRB- 187 -RRB- . 
 Higher levels of exercise intensity are associated with greater improvements in A1C and in fitness -LRB- 188 -RRB- . 
@@ -960,7 +960,7 @@ However , there is no evidence that vigorous exercise increases the rate of prog
 • Psychosocial screening and follow-up may include , but is not limited to , attitudes about the illness , expectations for medical management and outcomes , affect/mood , general and diabetes-related quality of life , resources -LRB- financial , social , and emotional -RRB- , and psychiatric history . 
 • Screen for psychosocial problems such as depression and diabetes-related distress , anxiety , eating disorders , and cognitive impairment when selfmanagement is poor . 
 It is important to establish that emotional well-being is part of diabetes care and selfmanagement . 
-
+Psychological and social problems can impair the individual 's -LRB- 204 -- 207 -RRB- or family 's ability to carry out diabetes care tasks and therefore compromise health status . 
 There are opportunities for the clinician to assess psychosocial status in a timely and efficient manner so that referral for appropriate services can be accomplished . 
 A systematic review and meta-analysis showed that psychosocial interventions modestly but significantly improved A1C -LRB- standardized mean difference 20.29 % -RRB- and mental health outcomes . 
 However , there was a limited association between the effects on A1C and mental health , and no intervention characteristics predicted benefit on both outcomes -LRB- 208 -RRB- . 
@@ -990,7 +990,7 @@ For further information on management of DKA or hyperglycemic nonketotic hyperos
 If SMBG 15 min after treatment shows continued hypoglycemia , the treatment should be repeated . 
 Once SMBG glucose returns to normal , the individual should consume a meal or snack to prevent recurrence of hypoglycemia . 
 • Glucagon should be prescribed for all individuals at significant risk of severe hypoglycemia , and caregivers or family members of these individuals should be instructed on its administration . 
-
+Glucagon administration is not limited to health care professionals . 
 • Hypoglycemia unawareness or one or more episodes of severe hypoglycemia should trigger re-evaluation of the treatment regimen . 
 • Insulin-treated patients with hypoglycemia unawareness or an episode of severe hypoglycemia should be advised to raise their glycemic targets to strictly avoid further hypoglycemia for at least several weeks , to partially reverse hypoglycemia unawareness , and to reduce risk of future episodes . 
 • Ongoing assessment of cognitive function is suggested with increased vigilance for hypoglycemia by the clinician , patient , and caregivers if low cognition and/or declining cognition is found . 
@@ -1011,7 +1011,7 @@ Although pure glucose is the preferred treatment , any form of carbohydrate that
 Ongoing activity of insulin or insulin secretagogues may lead to recurrence of hypoglycemia unless further food is ingested after recovery . 
 Severe hypoglycemia -LRB- where the individual requires the assistance of another person and can not be treated with oral carbohydrate due to confusion or unconsciousness -RRB- should be treated using emergency glucagon kits , which require a prescription . 
 Those in close contact with , or having custodial care of , people with hypoglycemia-prone diabetes -LRB- family members , roommates , school personnel , child care providers , correctional institution staff , or coworkers -RRB- should be instructed in use of such kits . 
-
+An individual does not need to be a health care professional to safely administer glucagon . 
 Care should be taken to ensure that unexpired glucagon kits are available . 
 Prevention of hypoglycemia is a critical component of diabetes management . 
 Particularly for insulin-treated patients , SMBG and , for some patients , CGM to detect incipient hypoglycemia and assess adequacy of treatment are a key component of safe therapy . 
@@ -1074,7 +1074,7 @@ PREVENTION AND MANAGEMENT OF DIABETES COMPLICATIONS
 CVD is the major cause of morbidity and mortality for individuals with diabetes and the largest contributor to the direct and indirect costs of diabetes . 
 The common conditions coexisting with type 2 diabetes -LRB- e.g. , hypertension and dyslipidemia -RRB- are clear risk factors for CVD , and diabetes itself confers independent risk . 
 Numerous studies have shown the efficacy of controlling individual cardiovascular risk factors in preventing or slowing CVD in people with diabetes . 
-
+Large benefits are seen when multiple risk factors are addressed globally -LRB- 247,248 -RRB- . 
 There is evidence that measures of 10-year coronary heart disease -LRB- CHD -RRB- risk among U.S. adults with diabetes have improved significantly over the past decade -LRB- 249 -RRB- . 
 • Blood pressure should be measured at every routine visit . 
 Patients found to have elevated blood pressure should have blood pressure confirmed on a separate day . 
@@ -1196,7 +1196,7 @@ Prespecified subgroup analyses suggested heterogeneity in treatment effects acco
 The AIM-HIGH trial randomized over 3,000 patients -LRB- about one-third with diabetes -RRB- with established CVD , low levels of HDL cholesterol , and triglyceride levels of 150 -- 400 mg/dL to statin therapy plus extended release niacin or matching placebo . 
 The trial was halted early due to lack of efficacy on the primary CVD outcome and a possible increase in ischemic stroke in those on combination therapy -LRB- 299 -RRB- . 
 For most patients with diabetes , the first priority of dyslipidemia therapy -LRB- unless severe hypertriglyceridemia with risk of pancreatitis is the immediate issue -RRB- is to lower LDL cholesterol to a target goal of < 100 mg/dL -LRB- 2.60 mmol/L -RRB- -LRB- 300 -RRB- . 
-
+Lifestyle intervention , including MNT , increased physical activity , weight loss , and smoking cessation , may allow some patients to reach lipid goals . 
 Nutrition intervention should be tailored according to each patient 's age , type of diabetes , pharmacological treatment , lipid levels , and other medical conditions and should focus on the reduction of saturated fat , cholesterol , and trans unsaturated fat intake and increases in n-3 fatty acids , viscous fiber -LRB- such as in oats , legumes , citrus -RRB- , and plant stanols/sterols . 
 Glycemic control can also beneficially modify plasma lipid levels , particularly in patients with very high triglycerides and poor glycemic control . 
 In those with clinical CVD or over age 40 years with other CVD risk factors , pharmacological treatment should be added to lifestyle therapy regardless of baseline lipid levels . 
@@ -1257,7 +1257,7 @@ However , aspirin is no longer recommended for those at low CVD risk -LRB- women
 Clinical judgment should be used for those at intermediate risk -LRB- younger patients with one or more risk factors , or older patients with no risk factors ; those with 10-year CVD risk of 5 -- 10 % -RRB- until further research is available . 
 Use of aspirin in patients under the age of 21 years is contraindicated due to the associated risk of Reye syndrome . 
 Average daily dosages used in most clinical trials involving patients with diabetes ranged from 50 to 650 mg but were mostly in the range of 100 to 325 mg/day . 
-
+There is little evidence to support any specific dose , but using the lowest possible dosage may help reduce side effects -LRB- 316 -RRB- . 
 In the U.S. , the most common low dose tablet is 81 mg . 
 Although platelets from patients with diabetes have altered function , it is unclear what , if any , impact that finding has on the required dose of aspirin for cardio-protective effects in the patient with diabetes . 
 Many alternate pathways for platelet activation exist that are independent of thromboxane A2 and thus not sensitive to the effects of aspirin -LRB- 317 -RRB- . 
@@ -1270,7 +1270,7 @@ Goals should be individualized based on duration of diabetes , age/life expectan
 † In individuals with overt CVD , a lower LDL cholesterol goal of ,70 mg/dL -LRB- 1.8 mmol/L -RRB- , using a high dose of a statin , is an option . 
 Clopidogrel has been demonstrated to reduce CVD events in diabetic individuals -LRB- 318 -RRB- . 
 It is recommended as adjunctive therapy in the first year after an acute coronary syndrome or as alternative therapy in aspirin-intolerant patients . 
-
+• Advise all patients not to smoke or use tobacco products . 
 • Include smoking cessation counseling and other forms of treatment as a routine component of diabetes care . 
 A large body of evidence from epidemiological , case-control , and cohort studies provides convincing documentation of the causal link between cigarette smoking and health risks . 
 Much of the work documenting the impact of smoking on health did not separately discuss results on subsets of individuals with diabetes , but suggests that the identified risks are at least equivalent to those found in the general population . 
@@ -1396,7 +1396,7 @@ Consider need for dose adjustment of medications Monitor eGFR every 6 months
 Monitor electrolytes , bicarbonate , hemoglobin , calcium , phosphorus , parathyroid hormone at least yearly 
 Assure vitamin D sufficiency Consider bone density testing Referral for dietary counseling 
 Monitor electrolytes , bicarbonate , calcium , phosphorus , parathyroid hormone , hemoglobin , albumin , weight every 3 -- 6 months Consider need for dose adjustment of medications 
-
+< 30 Referral to nephrologist 
 Adapted from http://www.kidney.org/professionals/KDOQI/guideline_diabetes/ . 
 The use of retinal photography with remote reading by experts has great potential in areas where qualified eye care professionals are not available and may also enhance efficiency and reduce costs when the expertise of ophthalmologists can be utilized for more complex examinations and for therapy -LRB- 378 -RRB- . 
 In-person exams are still necessary when the photos are unacceptable and for follow-up of abnormalities detected . 
@@ -1473,7 +1473,7 @@ Clinicians should ask about history of previous foot ulceration or amputation , 
 A general inspection of skin integrity and musculoskeletal deformities should be done in a well-lit room . 
 Vascular assessment would include inspection and assessment of pedal pulses . 
 The neurologic exam recommended is designed to identify LOPS rather than early neuropathy . 
-
+The clinical examination to identify LOPS is simple and requires no expensive equipment . 
 five simple clinical tests -LRB- use of a 10-g monofilament , vibration testing using a 128-Hz tuning fork , tests of pinprick sensation , ankle reflex assessment , and testing vibration perception threshold with a biothesiometer -RRB- , each with evidence from well-conducted prospective clinical cohort studies , are considered useful in the diagnosis of LOPS in the diabetic foot . 
 The task force agrees that any of the five tests listed could be used by clinicians to identify LOPS , although ideally two of these should be regularly performed during the screening examdnormally the 10-g monofilament and one other test . 
 One or more abnormal tests would suggest LOPS , while at least two normal tests -LRB- and no abnormal test -RRB- would rule out LOPS . 
@@ -1584,7 +1584,7 @@ Initial therapy should be with a Step 2 AHA diet , which restricts saturated fat
 Data from randomized clinical trials in children as young as 7 months of age indicate that this diet is safe and does not interfere with normal growth and development -LRB- 426,427 -RRB- . 
 Plasma blood glucose and A1C goals for type 1 diabetes by age-group 
 Values by age -LRB- years -RRB- Before meals Bedtime / overnight A1C Rationale 
-
+Toddlers and preschoolers -LRB- 0 -- 6 -RRB- 100 -- 180 110 -- 200 < 8.5 % • Vulnerability to hypoglycemia 
 • Unpredictability in dietary intake and physical activity 
 • A lower goal -LRB- ,8.0 % -RRB- is reasonable if it can be 
 School age -LRB- 6 -- 12 -RRB- 90 -- 180 100 -- 180 < 8 % achieved without excessive hypoglycemia • Vulnerability of hypoglycemia 
@@ -1794,7 +1794,7 @@ Clinical judgment , combined with ongoing assessment of the patient 's clinical 
 Antihyperglycemic agents in hospitalized patients 
 In the hospital setting , insulin therapy is the preferred method of glycemic control in majority of clinical situations -LRB- 468 -RRB- . 
 In the ICU , intravenous infusion is the preferred route of insulin administration . 
-
+When the patient is transitioned off intravenous insulin to subcutaneous therapy , precautions should be taken to prevent hyperglycemia escape -LRB- 472,473 -RRB- . 
 Outside of critical care units , scheduled subcutaneous insulin that delivers basal , nutritional , and correction -LRB- supplemental -RRB- components is preferred . 
 Typical dosing schemes are based on body weight , with some evidence that patients with renal insufficiency should be treated with lower doses -LRB- 474 -RRB- . 
 Prolonged therapy with sliding-scale insulin -LRB- SSI -RRB- as the sole regimen is ineffective in the majority of patients , increases risk of both hypoglycemia and hyperglycemia , and has recently been shown in a randomized trial to be associated with adverse outcomes in general surgery patients with type 2 diabetes -LRB- 475 -RRB- . 
@@ -1813,7 +1813,7 @@ Inpatient diabetes management may be effectively championed and/or provided by p
 Involvement of appropriately trained specialists or specialty teams may reduce length of stay , improve glycemic control , and improve outcomes -LRB- 468 -RRB- . 
 In the care of diabetes , implementation of standardized order sets for scheduled and correctiondose insulin may reduce reliance on sliding-scale management . 
 As hospitals move to comply with `` meaningful use '' regulations for electronic health records , as mandated by the Health Information Technology Act , efforts should be made to assure that all components of structured insulin order sets are incorporated into electronic insulin order sets -LRB- 477,478 -RRB- . 
-
+A team approach is needed to establish hospital pathways . 
 To achieve glycemic targets associated with improved hospital outcomes , hospitals will need multidisciplinary support to develop insulin management protocols that effectively and safely enable achievement of glycemic targets -LRB- 479 -RRB- . 
 Self-management in the hospital 
 Self-management of diabetes in the hospital may be appropriate for competent adult patients who have a stable level of consciousness , have reasonably stable daily insulin requirements , successfully conduct self-management of diabetes at home , have physical skills needed to successfully self-administer insulin and perform SMBG , have adequate oral intake , and are proficient in carbohydrate counting , use of multiple daily insulin injections or insulin pump therapy , and sick-day management . 
@@ -1850,13 +1850,13 @@ As such , discharge planning begins at admission to the hospital and is updated 
 Inpatients may be discharged to varied settings , including home -LRB- with or without visiting nurse services -RRB- , assisted living , rehabilitation , or skilled nursing facilities . 
 The latter two sites are generally staffed by health professionals , so diabetes discharge planning will be limited to communication of medication and diet orders . 
 For the patient who is discharged to assisted living or to home , the optimal program will need to consider the type and severity of diabetes , the effects of the patient 's illness on blood glucose levels , and the capacities and desires of the patient . 
-
+Smooth transition to outpatient care should be ensured . 
 The Agency for Healthcare Research and Quality -LRB- AHRQ -RRB- recommends that at a minimum , discharge plans include the following : 
 • Medication reconciliation : The patient 's medications must be crosschecked to ensure that no chronic medications were stopped and to ensure the safety of new prescriptions . 
 • Whenever possible , prescriptions for new or changed medication should be filled and reviewed with the patient and family at or before discharge . 
 • Structured discharge communication : Information on medication changes , pending tests and studies , and follow-up needs must be accurately and promptly communicated to outpatient physicians . 
 • Discharge summaries should be transmitted to the primary physician as soon as possible after discharge . 
-
+• Appointment keeping behavior is enhanced when the inpatient team schedules outpatient medical followup prior to discharge . 
 Ideally the inpatient care providers or case managers / discharge planners will schedule follow-up visit -LRB- s -RRB- with the appropriate professionals , including the primary care provider , endocrinologist , and diabetes educator -LRB- 491 -RRB- . 
 Teaching diabetes self-management to patients in hospitals is a challenging task . 
 Patients are ill , under increased stress related to their hospitalization and diagnosis , and in an environment not conducive to learning . 
@@ -1901,7 +1901,7 @@ Because it is estimated that nearly 80,000 inmates have diabetes , correctional 
 See the ADA position statement on diabetes management in correctional institutions -LRB- 494 -RRB- for further discussion . 
 STRATEGIES FOR IMPROVING DIABETES CARE 
 • Care should be aligned with components of the Chronic Care Model -LRB- CCM -RRB- to ensure productive interactions between a prepared proactive practice team and an informed activated patient . 
-
+• When feasible , care systems should support team-based care , community involvement , patient registries , and embedded decision support tools to meet patient needs . 
 • Treatment decisions should be timely and based on evidence-based guidelines that are tailored to individual patient preferences , prognoses , and comorbidities . 
 • A patient-centered communication style should be employed that incorporates patient preferences , assesses literacy and numeracy , and addresses cultural barriers to care . 
 There has been steady improvement in the proportion of diabetic patients achieving recommended levels of A1C , blood pressure , and LDL cholesterol in the last 10 years , both in primary care settings and in endocrinology practices . 
@@ -2054,7 +2054,7 @@ Summary and recommendations of the fifth International WorkshopConference on Ges
 Managing preexisting diabetes for pregnancy : summary of evidence and consensus recommendations for care . 
 Outpatient insulin therapy in type 1 and type 2 diabetes mellitus : scientific review . 
 Reduced hypoglycemia risk with insulin glargine : a meta-analysis comparing insulin glargine with human NPH insulin in type 2 diabetes . 
-
+Narrative review : a rational approach to starting insulin therapy . 
 Inzucchi SE , Bergenstal RM , Buse JB , et al. ; American Diabetes Association -LRB- ADA -RRB- ; European Association for the Study of Diabetes -LRB- EASD -RRB- . 
 Management of hyperglycemia in type 2 diabetes : a patient-centered approach . 
 Position Statement of the American Diabetes Association -LRB- ADA -RRB- and the European Association for the Study of Diabetes -LRB- EASD -RRB- . 
@@ -2125,7 +2125,7 @@ Different models to mobilize peer support to improve diabetes selfmanagement and
 Peer mentoring and financial incentives to improve glucose control in African American veterans : a randomized trial . 
 The development of a pilot training program for peer leaders in diabetes : process and content . 
 A review of volunteer-based peer support interventions in diabetes . 
-
+Training peers to deliver a churchbased diabetes prevention program . 
 What is the effect of peer support on diabetes outcomes in adults ? 
 Self-management education programmes by lay leaders for people with chronic conditions . 
 Effectiveness of community health workers in the care of persons with diabetes . 
@@ -2167,7 +2167,7 @@ Perception of neighborhood problems , health behaviors , and diabetes outcomes a
 Depressive symptoms and mortality among persons with and without diabetes . 
 Psychological issues and treatments for people with diabetes . 
 Disordered eating behavior in individuals with diabetes : importance of context , evaluation , and classification . 
-
+Understanding physicians ' challenges when treating type 2 diabetic patients ' social and emotional difficulties : a qualitative study . 
 Collaborative care for patients with depression and chronic illnesses . 
 An integrated model for understanding the experience of individuals with co-occuring diabetes and depression . 
 Hyperglycemic crises in adult patients with diabetes . 
@@ -2223,7 +2223,7 @@ Outcome results of the Fosinopril Versus Amlodipine Cardiovascular Events Random
 The effect of nisoldipine as compared with enalapril on cardiovascular outcomes in patients with non-insulin-dependent diabetes and hypertension . 
 Appropriate blood pressure control in hypertensive and normotensive type 2 diabetes mellitus : a summary of the ABCD trial . 
 ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group . 
-
+The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial . 
 Major outcomes in high-risk hypertensive patients randomized to angiotensin-converting enzyme inhibitor or calcium channel blocker vs diuretic : The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial -LRB- ALLHAT -RRB- . 
 Health outcomes associated with antihypertensive therapies used as first-line agents . 
 Effects of ramipril on cardiovascular and microvascular outcomes in people with diabetes mellitus : results of the HOPE study and MICRO-HOPE substudy . 
@@ -2371,7 +2371,7 @@ Testosterone therapy in men with androgen deficiency syndromes : an Endocrine So
 Periodontal status of diabetics compared with nondiabetics : a meta-analysis . 
 Efficacy of periodontal treatment on glycaemic control in diabetic patients : a meta-analysis of interventional studies . 
 Oral Health for People with Diabetes . 
-
+Diabetes and cancer : is diabetes causally related to cancer ? 
 Systematic review of type 1 and type 2 diabetes mellitus and risk of fracture . 
 Discrepancies in bone mineral density and fracture risk in patients with type 1 and type 2 diabetesda meta-analysis . 
 Diabetic patients have an increased risk of vertebral fractures independent of BMD or diabetic complications . 
@@ -2529,7 +2529,7 @@ In the other , much more prevalent category , type 2 diabetes , the cause is a c
 In the latter category , a degree of hyperglycemia sufficient to cause pathologic and functional changes in various target tissues , but without clinical symptoms , may be present for a long period of time before diabetes is detected . 
 During this asymptomatic period , it is possible to demonstrate an abnormality in carbohydrate metabolism by measurement of plasma glucose in the fasting state or after a challenge with an oral glucose load or by A1C . 
 The degree of hyperglycemia -LRB- if any -RRB- may change over time , depending on the extent of the underlying disease process -LRB- fig. 1 -RRB- . 
-
+A disease process may be present but may not have progressed far enough to cause hyperglycemia . 
 The same disease process can cause impaired fasting glucose -LRB- IFG -RRB- and/or impaired glucose tolerance -LRB- IGT -RRB- without fulfilling the criteria for the diagnosis of diabetes . 
 In some individuals with diabetes , adequate glycemic control can be achieved with weight reduction , exercise , and/or oral glucose-lowering agents . 
 Other individuals who have some residual insulin secretion but require exogenous insulin for adequate glycemic control can survive without it . 
@@ -2543,7 +2543,7 @@ Alternatively , a person who acquires diabetes because of large doses of exogeno
 Another example would be a person treated with thiazides who develops diabetes years later . 
 Because thiazides in themselves seldom cause severe hyperglycemia , such individuals probably have type 2 diabetes that is exacerbated by the drug . 
 Thus , for the clinician and patient , it is less important to label the particular type of diabetes than it is to understand the pathogenesis of the hyperglycemia and to treat it effectively . 
-
+Type 1 diabetes -LRB- b-cell destruction , usually leading to absolute insulin deficiency -RRB- 
 This form of diabetes , which accounts for only 5 -- 10 % of those with diabetes , previously encompassed by the terms insulindependent diabetes or juvenile-onset diabetes , results from a cellular-mediated autoimmune destruction of the b-cells of the pancreas . 
 Markers of the immune destruction of the b-cell include islet cell autoantibodies , autoantibodies to insulin , autoantibodies to GAD -LRB- GAD65 -RRB- , and autoantibodies to the tyrosine phosphatases IA-2 and IA-2b . 
 One and usually more of these autoantibodies are present in 85 -- 90 % of individuals when fasting hyperglycemia is initially detected . 
@@ -2647,7 +2647,7 @@ Although most cases resolve with delivery , the definition applied whether or no
 This definition facilitated a uniform strategy for detection and classification of GDM , but its limitations were recognized for many years . 
 As the ongoing epidemic of obesity and diabetes has led to more type 2 diabetes in women of childbearing age , the number of pregnant women with undiagnosed type 2 diabetes has increased . 
 Etiologic classification of diabetes mellitus 
-
+Type 1 diabetes -LRB- b-cell destruction , usually leading to absolute insulin deficiency -RRB- 
 Type 2 diabetes -LRB- may range from predominantly insulin resistance with relative insulin deficiency to a predominantly secretory defect with insulin resistance -RRB- 
 Genetic defects of b-cell function 
 Other very rare forms of MODY -LRB- e.g. , MODY 4 : Chromosome 13 , insulin promoter factor-1 ; MODY 6 : Chromosome 2 , NeuroD1 ; MODY 7 : Chromosome 9 , carboxyl ester lipase -RRB- 
@@ -2706,9 +2706,9 @@ The deciles of the three measures at which retinopathy began to increase were th
 Moreover , the glycemic values above which retinopathy increased were similar among the populations . 
 These analyses confirmed the long-standing diagnostic 2-h PG value of > = 200 mg/dl -LRB- 11.1 mmol/l -RRB- . 
 However , the older FPG diagnostic cut point of 140 mg/dl -LRB- 7.8 mmol/l -RRB- was noted to identify far fewer individuals with diabetes than the 2-h PG cut point . 
-
+The FPG diagnostic cut point was reduced to > = 126 mg/dl -LRB- 7.0 mmol/l -RRB- . 
 Categories of increased risk for diabetes -LRB- prediabetes -RRB- * 
-
+FPG 100 mg/dl -LRB- 5.6 mmol/l -RRB- to 125 mg/dl -LRB- 6.9 mmol/l -RRB- -LSB- IFG -RSB- 
 2-h PG in the 75-g OGTT 140 mg/dl -LRB- 7.8 mmol/l -RRB- to 199 mg/dl -LRB- 11.0 mmol/l -RRB- -LSB- IGT -RSB- A1C 5.7 -- 6.4 % 
 * For all three tests , risk is continuous , extending below the lower limit of the range and becoming disproportionately greater at higher ends of the range . 
 A1C is a widely used marker of chronic glycemia , reflecting average blood glucose levels over a 2to 3-month period of time . 
@@ -2885,8 +2885,8 @@ Available at http://www.diabetes.org/assets/pdfs/schools/your-school-your-right-
 Children with Diabetes : Information for School and Child Care Providers . 
 Available at http://shopdiabetes.org/42-children-withdiabetes-information-for-school-and-child-care-providers.aspx* 
 ADA 's Safe at School campaign and information on how to keep children with diabetes safe at school . 
-
-
+Call 1-800-DIABETES and go to http://www.diabetes.org/living-with-diabetes/parents-and-kids/diabetes-care-at-school/ 
+American Diabetes Association : Complete Guide to Diabetes . 
 Available at http://www.shopdiabetes.org/551-American-Diabetes - 
 American Diabetes Association : Guide to Raising a Child With Diabetes , 3rd ed . 
 Available at http://www.shopdiabetes.org/548-ADAGuide-to-Raising-a-Child-with-Diabetes-3rd-Edition.aspx 
@@ -2920,9 +2920,9 @@ This is important to avoid medical problems being worsened by a delay in monitor
 Accordingly , as stated earlier , a student should be permitted to monitor his or her blood glucose level and take appropriate action to treat hypoglycemia and hyperglycemia in the classroom or anywhere the student is in conjunction with a school activity , if preferred by the student and indicated in the student 's DMMP -LRB- 3,24 -RRB- . 
 However , some students desire privacy for blood glucose monitoring and other diabetes care tasks , and this preference should also be accommodated . 
 In summary , with proper planning and the education and training of school personnel , children and youth with diabetes can fully participate in the school experience . 
-
+To this end , the family , the health care team , and the school should work together to ensure a safe learning environment . 
 Background information on diabetes for school personnel 
-
+Diabetes is a serious , chronic disease that impairs the body 's ability to use food . 
 Insulin , a hormone produced by the pancreas , helps the body convert food into energy . 
 In people with diabetes , either the pancreas does not make insulin or the body can not use insulin properly . 
 Without insulin , the body 's main energy sourcedglucosedcannot be used as fuel . 
@@ -2946,7 +2946,7 @@ The most common symptoms of hyperglycemia are thirst , frequent urination , and 
 If untreated over a period of days , hyperglycemia and insufficient insulin can lead to a serious condition called diabetic ketoacidosis -LRB- DKA -RRB- , which is characterized by nausea , vomiting , and a high level of ketones in the blood and urine . 
 For students using insulin infusion pumps , lack of insulin supply may lead to DKA more rapidly . 
 The American Diabetes Association thanks the members of the Health Care Professional Volunteer Writing Group for this updated statement : William Clarke , MD ; Larry C. 
-
+American Diabetes Association : American Diabetes Association Complete Guide to Diabetes . 
 Centers for Disease Control and Prevention : National Diabetes Fact Sheet : National Estimates and General Information on Diabetes and Prediabetes in the United States , 2011 . 
 Department of Health and Human Services , Centers for Disease Control and Prevention , 2011 
 National Institutes of Health : Helping the Student with Diabetes Succeed : A Guide for School Personnel . 
@@ -3032,7 +3032,7 @@ The federal government has no diabetes-specific restrictions for individuals who
 It offers an exemption program for insulin-using interstate commercial drivers and issues medical certificates to qualified drivers . 
 Factors in the federal commercial driving medical evaluation include a review of diabetes history , medications , hospitalizations , blood glucose history , and tests for various complications and an assessment of driver understanding of diabetes and willingness to monitor their condition . 
 SCIENCE OF DIABETES AND DRIVING 
-
+Hypoglycemia indicating an impaired ability to drive , retinopathy or cataract formation impairing the vision needed to operate a motor vehicle , and neuropathy affecting the ability to feel foot pedals can each impact driving safety -LRB- 4 -RRB- . 
 However , the incidence of these conditions is not sufficiently extensive to justify restriction of driving privileges for all drivers with diabetes . 
 Driving mishaps related to diabetes are relatively infrequent for most drivers with diabetes and occur at a lower rate than mishaps of many other drivers with conditions that affect driving performance and that are tolerated by society . 
 However , just as there are some patients with conditions that increase their risk of incurring driving mishaps , such as unstable coronary heart disease , obstructive sleep apnea , epilepsy , Parkinson 's disease , or alcohol and substance abuse , there are also some drivers with diabetes that have a higher risk for driving mishaps . 
@@ -3069,7 +3069,7 @@ Risk increased exponentially with additional reported episodes : If individuals 
 The strongest predictors involved a history of hypoglycemia while driving -LRB- 21 -RRB- . 
 Laboratory studies that compared drivers with type 1 diabetes who had no history of hypoglycemia-related driving mishap in the past year to those who had more than one mishap found that those with a history of mishaps : 1 -RRB- drove significantly worse during progressive mild hypoglycemia -LRB- 70 -- 50 mg/dL , 3.9 -- 2.8 mmol/L -RRB- but drove equally well when blood glucose was normal -LRB- euglycemia -RRB- ; 2 -RRB- had a lower epinephrine response while driving during hypoglycemia , 3 -RRB- were more insulin sensitive , and 4 -RRB- demonstrated greater difficulties with working memory and information processing speed during euglycemia and hypoglycemia -LRB- 24,40,41 -RRB- . 
 Thus , a history of mishaps should be used as a basis for identifying insulin-managed drivers with elevated risk of future mishaps . 
-
+Such individuals are appropriately subjected to additional screening requirements . 
 Four studies have demonstrated that Blood Glucose Awareness Training -LRB- BGAT -RRB- reduces the occurrence of collisions and moving vehicle violations while improving judgment about whether to drive while hypoglycemic -LRB- 42 -- 45 -RRB- . 
 BGAT is an 8-week psycho-educational training program designed to assist individuals with type 1 diabetes to better anticipate , prevent , recognize , and treat extreme blood glucose events . 
 This intervention can be effectively delivered over the internet -LRB- 46 -RRB- . 
@@ -3080,7 +3080,7 @@ Because people with diabetes are diverse in terms of the nature of their conditi
 Laws that require all people with diabetes -LRB- or all people with insulin-treated diabetes -RRB- to be medically evaluated as a condition of licensure are ill advised because they combine people with diabetes into one group rather than identifying those drivers who may be at increased risk due to potential difficulties in avoiding hypoglycemia or the presence of complications . 
 In addition , the logistics of registering and evaluating millions of people with diabetes who wish to drive presents an enormous administrative and fiscal burden to licensing agencies . 
 States that require drivers to identify diabetes should limit the identification to reports of diabetesrelated problems . 
-
+To identify potentially at-risk drivers , a short questionnaire can be used to find those drivers who may require further evaluation . 
 The questionnaire should ask whether the driver has , within the past 12 months , lost consciousness due to hypoglycemia , experienced hypoglycemia that required intervention from another person to treat or that interfered with driving , or experienced hypoglycemia that developed without warning . 
 The questionnaire should also query about loss of visual acuity or peripheral vision and loss of feeling in the right foot . 
 Inasmuch as obstructive sleep apnea is more common in people with type 2 diabetes than in the nondiabetic population , patients should be queried about falling asleep during the day . 
@@ -3155,7 +3155,7 @@ Standards of medical care in diabetesd2013 -LRB- Position Statement -RRB- .
 Should persons with diabetes be licensed to drive trucks ? 
 Traffic hypoglycaemias and accidents in patients with diabetes mellitus treated with different antidiabetic regimens . 
 Diabetes and driving mishaps : frequency and correlations from a multinational survey . 
-
+Driving and diabetes : DVLA response to Lonnen et al. . 
 Attentiondeficit/hyperactivity disorder -LRB- ADHD -RRB- and driving risk : a review of the literature and a methodological critique . 
 Obstructive sleep apnea and risk of motor vehicle crash : systematic review and meta-analysis . 
 Impact of diabetes on crash risks of truck-permit holders and commercial drivers . 
@@ -3208,7 +3208,7 @@ Ultimately , diabetes management is dependent upon having access to needed medic
 Ongoing diabetes therapy is important in order to reduce the risk of later complications , including cardiovascular events , visual loss , renal failure , and amputation . 
 Early identification and intervention for people with diabetes is also likely to reduce short-term risks for acute complications requiring transfer out of the facility , thus improving security . 
 This document provides a general set of guidelines for diabetes care in correctional institutions . 
-
+It is not designed to be a diabetes management manual . 
 More detailed information on the management of diabetes and related disorders can be found in the American Diabetes Association -LRB- ADA -RRB- Clinical Practice Recommendations , published each year in January as the first supplement to Diabetes Care , as well as the `` Standards of Medical Care in Diabetes '' -LRB- 4 -RRB- contained therein . 
 This discussion will focus on those areas where the care of people with diabetes in correctional facilities may differ , and specific recommendations are made at the end of each section . 
 In particular , rapid identification of all insulin-treated persons with diabetes is essential in order to identify those at highest risk for hypoand hyperglycemia and diabetic ketoacidosis -LRB- DKA -RRB- . 
@@ -3283,7 +3283,7 @@ Signs and symptoms of severe hypoglycemia can be confused with intoxication or w
 Individuals with diabetes exhibiting signs and symptoms consistent with hypoglycemia , particularly altered mental status , agitation , and diaphoresis , should have their CBG levels checked immediately . 
 Security staff who supervise patients at risk for hypoglycemia -LRB- i.e. , those on insulin or oral hypoglycemic agents -RRB- should be educated in the emergency response protocol for recognition and treatment of hypoglycemia . 
 Every attempt should be made to document CBG before treatment . 
-
+Patients must have immediate access to glucose tablets or other glucosecontaining foods . 
 Hypoglycemia can generally be treated by the patient with oral carbohydrates . 
 If the patient can not be relied on to keep hypoglycemia treatment on his/her person , staff members should have ready access to glucose tablets or equivalent . 
 In general , 15 -- 20 g oral glucose will be adequate to treat hypoglycemic events . 
@@ -3294,11 +3294,11 @@ In certain cases of unexplained or recurrent severe hypoglycemia , it may be app
 Correctional institutions should have systems in place to identify the patients at greater risk for hypoglycemia -LRB- i.e. , those on insulin or sulfonylurea therapy -RRB- and to ensure the early detection and treatment of hypoglycemia . 
 If possible , patients at greater risk of severe hypoglycemia -LRB- e.g. , those with a prior episode of severe hypoglycemia -RRB- may be housed in units closer to the medical unit in order to minimize delay in treatment . 
 • Train correctional staff in the recognition , treatment , and appropriate referral for hypoand hyperglycemia . 
-
+• Train appropriate staff to administer glucagon . 
 • Train staff to recognize symptoms and signs of serious metabolic decompensation , and immediately refer the patient for appropriate medical care . 
 • Institutions should implement a policy requiring staff to notify a physician of all CBG results outside of a specified range , as determined by the treating physician -LRB- e.g. , < 50 or > 350 mg/dL -RRB- . 
 • Identify patients with type 1 diabetes who are at high risk for DKA . 
-
+Formularies should provide access to usual and customary oral medications and insulins necessary to treat diabetes and related conditions . 
 While not every brand name of insulin and oral medication needs to be available , individual patient care requires access to short - , medium - , and long-acting insulins and the various classes of oral medications -LRB- e.g. , insulin secretagogues , biguanides , a-glucosidase inhibitors , and thiazolidinediones -RRB- necessary for current diabetes management . 
 Patients at all levels of custody should have access to medication at dosing frequencies that are consistent with their treatment plan and medical direction . 
 If feasible and consistent with security concerns , patients on multiple doses of shortacting oral medications should be placed in a `` keep on person '' program . 
@@ -3310,13 +3310,13 @@ The use of multiple-dose insulin regimens using rapid-acting analogs can decreas
 Correctional institutions should have systems in place to ensure that rapid-acting insulin analogs and oral agents are given immediately before meals if this is part of the patient 's medical plan . 
 It should be noted however that even modest delays in meal consumption with these agents can be associated with hypoglycemia . 
 If consistent access to food within 10 min can not be ensured , rapidacting insulin analogs and oral agents are approved for administration during or immediately after meals . 
-
+Should circumstances arise that delay patient access to regular meals following medication administration , policies and procedures must be implemented to ensure the patient receives appropriate nutrition to prevent hypoglycemia . 
 Both continuous subcutaneous insulin infusion and multiple daily insulin injection therapy -LRB- consisting of three or more injections a day -RRB- can be effective means of implementing intensive diabetes management with the goal of achieving near-normal levels of blood glucose -LRB- 9 -RRB- . 
 While the use of these modalities may be difficult in correctional institutions , every effort should be made to continue multiple daily insulin injection or continuous subcutaneous insulin infusion in people who were using this therapy before incarceration or to institute these therapies as indicated in order to achieve blood glucose targets . 
 It is essential that transport of patients from jails or prisons to off-site appointments , such as medical visits or court appearances , does not cause significant disruption in medication or meal timing . 
 Correctional institutions and police lockups should implement policies and procedures to diminish the risk of hypoand hyperglycemia by , for example , providing carry-along meals and medication for patients traveling to off-site appointments or changing the insulin regimen for that day . 
 The availability of prefilled insulin `` pens '' provides an alternative for off-site insulin delivery . 
-
+• Formularies should provide access to usual and customary oral medications and insulins to treat diabetes and related conditions . 
 • Patients should have access to medication at dosing frequencies that are consistent with their treatment plan and medical direction . 
 • Correctional institutions and police lock-ups should implement policies and procedures to diminish the risk of hypoand hyperglycemia during offsite travel -LRB- e.g. , court appearances -RRB- . 
 ROUTINE SCREENING FOR AND MANAGEMENT OF DIABETES COMPLICATIONS 
@@ -3331,7 +3331,7 @@ Special shoes should be provided as recommended by licensed health professionals
 Visual changes that can not be accounted for by acute changes in glycemic control require prompt evaluation by an eye care professional . 
 • Nephropathy : An annual spot urine test for determination of microalbuminto-creatinine ratio should be performed . 
 The use of ACE inhibitors or angiotensin receptor blockers is recommended for all patients with albuminuria . 
-
+Blood pressure should be controlled to < 140 / 80 mmHg . 
 • Cardiac : People with type 2 diabetes are at a particularly high risk of coronary artery disease . 
 Cardiovascular disease -LRB- CVD -RRB- risk factor management is of demonstrated benefit in reducing this complication in patients with diabetes . 
 Blood pressure should be measured at every routine diabetes visit . 
@@ -3378,7 +3378,7 @@ At an intake facility , proper initial identification and assessment of these pa
 The presence of diabetes may complicate detoxification . 
 Patients in need of complicated detoxification should be referred to a facility equipped to deal with highrisk detoxification . 
 Patients with diabetes should be educated in the risks involved with smoking . 
-
+All inmates should be advised not to smoke . 
 Assistance in smoking cessation should be provided as practical . 
 Major components of diabetes self-management education 
 Patients in jails may be housed for a short period of time before being transferred or released , and it is not unusual for patients in prison to be transferred within the system several times during their incarceration . 
@@ -3433,7 +3433,7 @@ Pregnancy in a woman with diabetes is by definition a high-risk pregnancy .
 Every effort should be made to ensure that treatment of the pregnant woman with diabetes meets accepted standards -LRB- 14,15 -RRB- . 
 It should be noted that glycemic standards are more stringent , the details of dietary management are more complex and exacting , insulin is the only antidiabetic agent approved for use in pregnancy , and a number of medications used in the management of diabetic comorbidities are known to be teratogenic and must be discontinued in the setting of pregnancy . 
 People with diabetes should receive care that meets national standards . 
-
+Patients must have access to medication and nutrition needed to manage their disease . 
 In patients who do not meet treatment targets , medical and behavioral plans should be adjusted by health care professionals in collaboration with the prison staff . 
 It is critical for correctional institutions to identify particularly high-risk patients in need of more intensive evaluation and therapy , including pregnant women , patients with advanced complications , a history of repeated severe hypoglycemia , or recurrent DKA . 
 A comprehensive , multidisciplinary approach to the care of people with diabetes can be an effective mechanism to improve overall health and delay or prevent the acute and chronic complications of this disease . 
@@ -3488,7 +3488,7 @@ Another situation in which a medical evaluation is permissible is when a problem
 In this situation , a physician may be asked to evaluate the employee 's fitness to remain on the job and/or his or her ability to safely perform the job . 
 Employers also may obtain medical information about an employee when the employee has requested an accomodation and his or her disability or need for accommodation is not obvious . 
 An employer should not rely on a medical evaluation to deny an employment opportunity to an individual with diabetes unless it is conducted by a health care professional with expertise in diabetes and based on sufficient and appropriate medical data . 
-
+The information sought and assessed must be properly limited to data relevant to the individual 's diabetes and job performance -LRB- 3 -RRB- . 
 The data needed will vary depending on the type of job and the reason for the evaluation , but an evaluation should never be made based only on one piece of data , such as a single blood glucose result or A1C result . 
 Since diabetes is a chronic disease in which health status and management requirements naturally change over time , it is inappropriated and medically unnecessarydfor examiners to collect all past laboratory values or information regarding office visits whether or not related to diabetes . 
 Only medical information relevant to evaluating an individual 's current capacity for safe performance of the particular job at issue should be collected . 
@@ -3558,7 +3558,7 @@ The following tools and terms do not accurately reflect the current state of dia
 Urine glucose results are no longer considered to be an appropriate and accurate methodology for assessing diabetes control -LRB- 8 -RRB- . 
 Before the mid-1970s , urine glucose tests were the best available method of monitoring blood glucose levels . 
 However , the urine test is not a reliable or accurate indicator of blood glucose levels and is a poor measure of the individual 's current health status . 
-
+Blood glucose monitoring is a more accurate and timely means to measure glycemic control . 
 Urine glucose tests should never be used to evaluate the employability of a person with diabetes . 
 Hemoglobin A1C -LRB- A1C -RRB- test results reflect average glycemia over several months and correlate with mean plasma glucose levels -LRB- 4 -RRB- . 
 Estimated average glucose -LRB- eAG -RRB- is directly related to A1C and also provides an individual with an estimate of average blood glucose over a period of time , but it uses the same values and units that are observed when using a glucose meter or recording a fasting glucose value on a lab report -LRB- 5 -RRB- . 
@@ -3568,7 +3568,7 @@ The American Diabetes Association recommends that in most patients A1C levels be
 This recommendation sets a target in order to lessen the chances of long-term complications of high blood glucose levels but does not provide useful information on whether the individual is at significant risk for hypoglycemia or suboptimal job performance and is not a measure of `` compliance '' with therapy . 
 An A1C or eAG cut off score is not medically justified in employment evaluations and should never be a determinative factor in employment . 
 Sometimes an individual 's diabetes is described as `` uncontrolled , '' `` poorly controlled , '' or `` brittle . '' 
-
+These terms are not well defined and are not relevant to job evaluations . 
 As such , giving an opinion on the level of `` control '' an individual has over diabetes is not the same as assessing whether that individual is qualified to perform a particular job and can do so safely . 
 • Evaluating the safety risk of employees with diabetes includes determining whether the concerns are reasonable in light of the job duties the individual must perform . 
 • Most people with diabetes can manage their condition in such a manner that there is no or minimal risk of incapacitation from hypoglycemia at work . 
@@ -3582,19 +3582,19 @@ Although there are some typical accommodations that many people with diabetes us
 Many of the accommodations that employees with diabetes need on a day-today basis are those that allow them to manage their diabetes in the workplace as they would elsewhere . 
 They are usually simple accommodations , can be provided without any cost to the employer , and should cause little or no disruption in the workplace . 
 Most employers are required to provide accommodations unless those accommodations would create an undue burden -LRB- 3 -RRB- . 
-
-
+Breaks may be needed to allow an individual to test blood glucose levels when needed . 
+Such checks only take minutes to complete . 
 Some individuals use continuous glucose monitors but will still need an opportunity to check blood glucose with a meter . 
 Blood glucose can be checked wherever the employee is without putting other employees at risk , and employers should not limit where employees with diabetes are permitted to manage their diabetes . 
 Some employees may prefer to have a private location for testing or other diabetes care tasks that should be provided whenever feasible . 
 Employees may need short breaks during the workday to administer insulin when it is needed . 
-
+Insulin can be safely administered wherever the employee happens to be . 
 The employee may also need a place to store insulin and other supplies if work conditions -LRB- such as extreme temperatures -RRB- prevent the supplies from being carried on the person -LRB- 10 -RRB- . 
 Employees may need access to food and/or beverages during the workday . 
 This is particularly important in the event that the employee needs to quickly respond to low blood glucose levels or maintain hydration if glucose levels are high . 
 Employees should be permitted to consume food or beverages as needed at their desk or work station -LRB- except in an extremely rare situation in which this would pose a hazard and create a safety issue , and if this is the case , an alternative site should be provided -RRB- . 
-
-
+Employees may need leave or a flexible work schedule to accommodate medical appointments or other diabetes care needs . 
+Occasionally , employees may need to miss work due to unanticipated events -LRB- severe hypoglycemic episode -RRB- or illness . 
 Certain types of work schedules , such as rotating or split shifts , can make it especially difficult for some individuals to manage diabetes effectively . 
 Accommodating complications of diabetes 
 In addition to accommodating the day-today management of diabetes in the workplace , for some individuals it is also necessary to seek modifications for longterm diabetes-related complications . 
@@ -3712,7 +3712,7 @@ What is the impact of using a structured curriculum in DSME ?
 What training should be required for those community , lay , or peer workers without training in health or diabetes who are to participate in the provision of DSME and to provide DSMS ? 
 Finally , the Standards emphasize that the person with diabetes is at the center of the entire diabetes education and support process . 
 It is the individuals with diabetes who do the hard work of managing their condition , day in and day out . 
-
+The educator 's role , first and foremost , is to make that work easier -LRB- 10 -RRB- . 
 DSME : The ongoing process of facilitating the knowledge , skill , and ability necessary for prediabetes and diabetes self-care . 
 This process incorporates the needs , goals , and life experiences of the person with diabetes or prediabetes and is guided by evidence-based standards . 
 The overall objectives of DSME are to support informed decision making , self-care behaviors , problem solving , and active collaboration with the health care team and to improve clinical outcomes , health status , and quality of life . 
@@ -3738,18 +3738,18 @@ The provider -LRB- s -RRB- of DSME will determine who to serve , how best to del
 Currently , the majority of people with diabetes and prediabetes do not receive any structured diabetes education -LRB- 19,20 -RRB- . 
 While there are many barriers to DSME , one crucial issue is access -LRB- 21 -RRB- . 
 Providers of DSME can help address this issue by : 
-
+• Clarifying the specific population to be served . 
 Understanding the community , service area , or regional demographics is crucial to ensuring that as many people as possible are being reached , including those who do not frequently attend clinical appointments -LRB- 9,17,22 -- 24 -RRB- . 
 • Determining that population 's selfmanagement education and support needs . 
 Different individuals , their families , and communities need different types of education and support -LRB- 25 -RRB- . 
 The provider -LRB- s -RRB- of DSME and DSMS needs to work to ensure that the necessary education alternatives are available -LRB- 25 -- 27 -RRB- . 
 This means understanding the population 's demographic characteristics , such as ethnic / cultural background , sex , and age , as well as levels of formal education , literacy , and numeracy -LRB- 28 -- 31 -RRB- . 
 It may also entail identifying resources outside of the provider 's practice that can assist in the ongoing support of the participant . 
-
+• Identifying access issues and working to overcome them . 
 It is essential to determine factors that prevent individuals with diabetes from receiving self-management education and support . 
 The assessment process includes the identification of these barriers to access -LRB- 32 -- 34 -RRB- . 
 These barriers may include the socioeconomic or cultural factors mentioned above , as well as , for example , health insurance shortfalls and the lack of encouragement from other health providers to seek diabetes education -LRB- 35,36 -RRB- . 
-
+A coordinator will be designated to oversee the DSME program . 
 The coordinator will have oversight responsibility for the planning , implementation , and evaluation of education services . 
 Coordination is essential to ensure that quality diabetes self-management education and support is delivered through an organized , systematic process -LRB- 37,38 -RRB- . 
 As the field of DSME continues to evolve , the coordinator plays a pivotal role in ensuring accountability and continuity in the education program -LRB- 39 -- 41 -RRB- . 
@@ -3757,7 +3757,7 @@ The coordinator 's role may be viewed as that of coordinating the program -LRB- 
 This oversight includes designing an education program or service that helps the participant access needed resources and assists him or her in navigating the health care system -LRB- 37,50 -- 55 -RRB- . 
 The individual serving as the coordinator will have knowledge of the lifelong process of managing a chronic disease and facilitating behavior change , in addition to experience with program and/or clinical management -LRB- 56 -- 59 -RRB- . 
 In some cases , particularly in solo or other small practices , the coordinator may also provide DSME and / or DSMS . 
-
+One or more instructors will provide DSME and , when applicable , DSMS . 
 At least one of the instructors responsible for designing and planning DSME and DSMS will be a registered nurse , registered dietitian , or pharmacist with training and experience pertinent to DSME , or another professional with certification in diabetes care and education , such as a CDE or BC-ADM . 
 Other health workers can contribute to DSME and provide DSMS with appropriate training in diabetes and with supervision and support . 
 Historically , nurses and dietitians were the main providers of diabetes education -LRB- 3,4,60 -- 64 -RRB- . 
@@ -3767,7 +3767,7 @@ However , the literature favors the registered nurse , registered dietitian , an
 Expert consensus supports the need for specialized diabetes and educational training beyond academic preparation for the primary instructors on the diabetes team -LRB- 69 -- 72 -RRB- . 
 Professionals serving as instructors must document appropriate continuing education or comparable activities to ensure their continuing competence to serve in their instructional , training , and oversight roles -LRB- 73 -RRB- . 
 Reflecting the evolving health care environment , a number of studies have endorsed a multidisciplinary team approach to diabetes care , education , and support . 
-
+The disciplines that may be involved include , but are not limited to , physicians , psychologists and other mental health specialists , physical activity specialists -LRB- including physical therapists , occupational therapists , and exercise physiologists -RRB- , optometrists , and podiatrists -LRB- 68,74,75 -RRB- . 
 More recently , health educators -LRB- e.g. , Certified Health Education Specialists and Certified Medical Assistants -RRB- , case managers , lay health and community workers -LRB- 76 -- 83 -RRB- , and peer counselors or educators -LRB- 84,85 -RRB- have been shown to contribute effectively as part of the DSME team and in providing DSMS . 
 While DSME and DSMS are often provided within the framework of a collaborative and integrated team approach , it is crucial that the individual with diabetes is viewed as central to the team and that he or she takes an active role . 
 Certification as a diabetes educator -LRB- CDE -RRB- by the National Certification Board for Diabetes Educators -LRB- NCBDE -RRB- is one way a health professional can demonstrate mastery of a specific body of knowledge , and this certification has become an accepted credential in the diabetes community -LRB- 86 -RRB- . 
@@ -3786,11 +3786,11 @@ The following core topics are commonly part of the curriculum taught in comprehe
 • Incorporating physical activity into lifestyle 
 • Using medication -LRB- s -RRB- safely and for maximum therapeutic effectiveness 
 • Monitoring blood glucose and other parameters and interpreting and using the results for self-management decision making 
-
-
+• Developing personal strategies to address psychosocial issues and concerns 
+• Developing personal strategies to promote health and behavior change 
 While the content areas listed above provide a solid outline for a diabetes education and support curriculum , it is crucial that the content be tailored to match each individual 's needs and be adapted as necessary for age , type of diabetes -LRB- including prediabetes and diabetes in pregnancy -RRB- , cultural factors , health literacy and numeracy , and comorbidities -LRB- 14,105 -- 108 -RRB- . 
 The content areas will be able to be adapted for all practice settings . 
-
+Approaches to education that are interactive and patient centered have been shown to be effective -LRB- 12,13,109 -- 112 -RRB- . 
 Also crucial is the development of action-oriented behavioral goals and objectives -LRB- 12 -- 14,113 -RRB- . 
 Creative , patient-centered , experience-based delivery methodsdbeyond the mere acquisition of knowledgedare effective for supporting informed decision making and meaningful behavior change and addressing psychosocial concerns -LRB- 114,115 -RRB- . 
 The diabetes self-management , education , and support needs of each participant will be assessed by one or more instructors . 
@@ -3799,7 +3799,7 @@ Research has demonstrated the importance of individualizing diabetes education t
 The assessment process is used to identify what those needs are and to facilitate the selection of appropriate educational and behavioral interventions and selfmanagement support strategies , guided by evidence -LRB- 2,63,116 -- 118 -RRB- . 
 The assessment must garner information about the individual 's medical history , age , cultural influences , health beliefs and attitudes , diabetes knowledge , diabetes self-management skills and behaviors , emotional response to diabetes , readiness to learn , literacy level -LRB- including health literacy and numeracy -RRB- , physical limitations , family support , and financial status -LRB- 11,106,108,117,119 -- 128 -RRB- . 
 The education and support plan that the participant and instructor -LRB- s -RRB- develop will be rooted in evidence-based approaches to effective health communication and education while taking into consideration participant barriers , abilities , and expectations . 
-
+The instructor will use clear health communication principles , avoiding jargon , making information culturally relevant , using languageand literacyappropriate education materials , and using interpreter services when indicated -LRB- 107,129 -- 131 -RRB- . 
 Evidence-based communication strategies such as collaborative goal setting , motivational interviewing , cognitive behavior change strategies , problem solving , self-efficacy enhancement , and relapse prevention strategies are also effective -LRB- 101,132 -- 134 -RRB- . 
 Periodic reassessment can determine whether there is need for additional or different interventions and future reassessment -LRB- 6,72,134 -- 137 -RRB- . 
 A variety of assessment modalities , including telephone follow-up and other information technologies -LRB- e.g. , Web based , text messaging , or automated phone calls -RRB- , may augment face-to-face assessments -LRB- 72,87,138 -- 141 -RRB- . 
@@ -3823,7 +3823,7 @@ Thus , communication among the team regarding the patient 's educational outcome
 Because self-management takes place in participants ' daily lives and not in clinical or educational settings , patients will be assisted to formulate a plan to find community-based resources that may support their ongoing diabetes selfmanagement . 
 Ideally , DSME and DSMS providers will work with participants to identify such services and , when possible , track those that have been effective with patients , while communicating with providers of community-based resources in order to better integrate them into patients ' overall care and ongoing support . 
 The provider -LRB- s -RRB- of DSME and DSMS will monitor whether participants are achieving their personal diabetes self-management goals and other outcome -LRB- s -RRB- as a way to evaluate the effectiveness of the educational intervention -LRB- s -RRB- , using appropriate measurement techniques . 
-
+Effective diabetes self-management can be a significant contributor to long-term , positive health outcomes . 
 The provider -LRB- s -RRB- of DSME and DSMS will assess each participant 's personal self-management goals and his or her progress toward those goals -LRB- 151,152 -RRB- . 
 The AADE Outcome Standards for Diabetes Education specify behavior change as the key outcome and provide a useful framework for assessment and documentation . 
 The AADE7 lists seven essential factors : physical activity , healthy eating , taking medication , monitoring blood glucose , diabetes self-care -- related problem solving , reducing risks of acute and chronic complications , and psychosocial aspects of living with diabetes -LRB- 93,153,154 -RRB- . 
@@ -3836,13 +3836,13 @@ The provider -LRB- s -RRB- of DSME will measure the effectiveness of the educati
 Diabetes education must be responsive to advances in knowledge , treatment strategies , education strategies , and psychosocial interventions , as well as consumer trends and the changing health care environment . 
 By measuring and monitoring both process and outcome data on an ongoing basis , providers of DSME can identify areas of improvement and make adjustments in participant engagement strategies and program offerings accordingly . 
 The Institute for Healthcare Improvement suggests three fundamental questions that should be answered by an improvement process -LRB- 149 -RRB- : 
-
-
+• What are we trying to accomplish ? 
+• How will we know a change is an improvement ? 
 • What changes can we make that will result in an improvement ? 
 Once areas for improvement are identified , the DSME provider must designate timelines and important milestones including data collection , analysis , and presentation of results -LRB- 150 -RRB- . 
 Measuring both processes and outcomes helps to ensure that change is successful without causing additional problems in the system . 
 Outcome measures indicate the result of a process -LRB- i.e. , whether changes are actually leading to improvement -RRB- , while process measures provide information about what caused those results -LRB- 144,150 -RRB- . 
-
+Process measures are often targeted to those processes that typically impact the most important outcomes . 
 AcknowledgmentsdNo potential conflicts of interest relevant to this article were reported . 
 The Task Force acknowledges Paulina Duker , ADA Staff Facilitator ; Leslie Kolb , AADE Staff Facilitator ; Karen fitzner , PhD , meeting facilitator -LRB- FH Consultants , Chicago , Illinois -RRB- ; and Sara Sklaroff for technical writing assistance . 
 Centers for Disease Control and Prevention . 
@@ -3863,11 +3863,11 @@ Evaluating a problem-based empowerment program for African Americans with diabet
 Developing a new generation of ongoing diabetes self-management support interventions : a preliminary report . 
 A systematic review of interventions to improve diabetes care in socially disadvantaged populations . 
 Behavior change interventions delivered by mobile telephone short-message service . 
-
+Designing education to improve care . 
 Changes and consistencies in diabetes education over 5 years : results of the 2010 National Diabetes Education Practice Survey . 
 The Joint Commission on Accreditation of Healthcare Organizations . 
 Oakbrook Terrace , IL , The Joint Commission on Accreditation of Healthcare Organizations , 2010 
-
+Deploying the chronic care model to implement and sustain diabetes selfmanagement training programs . 
 Implementing the chronic care model for improvements in diabetes care and education in a rural primary care practice . 
 Costs and benefits associated with diabetes education : a review of the literature . 
 Health of previously uninsured adults after acquiring Medicare coverage . 
@@ -3888,7 +3888,7 @@ Health care utilization and self-care behaviors of Medicare beneficiaries with d
 Effects of care coordination on hospitalization , quality of care , and health care expenditures among Medicare beneficiaries : 15 randomized trials . 
 A randomized trial of a primary care-based disease management program to improve cardiovascular risk factors and glycated hemoglobin levels in patients with diabetes . 
 A transition care programme which improves diabetes control and reduces hospital admission rates in young adults with Type 1 diabetes aged 15-25 years . 
-
+Using RE-AIM metrics to evaluate diabetes self-management support interventions . 
 Integrated telehealth and care management program for Medicare beneficiaries with chronic disease linked to savings . 
 Piatt GA , Anderson RM , Brooks MM , et al. 3-Year follow-up of clinical and behavioral improvements following a multifaceted diabetes care intervention : results of a randomized controlled trial . 
 Beyond comorbidity counts : how do comorbidity type and severity influence diabetes patients ' treatment priorities and self-management ? 
@@ -3987,7 +3987,7 @@ Dosage effects of diabetes self-management education for Mexican Americans : the
 Designing and evaluating diabetes education material for American Indians . 
 Can elderly patients co-operate with routine foot care ? 
 Culturally appropriate health education for Type 2 diabetes in ethnic minority groups : a systematic and narrative review of randomized controlled trials . 
-
+Addressing literacy and numeracy to improve diabetes care : two randomized controlled trials . 
 Teaching Patients with Low Literacy Skills . 
 Closing the loop : physician communication with diabetic patients who have low health literacy . 
 A multicenter randomized controlled trial of motivational interviewing in teenagers with diabetes . 
@@ -3996,11 +3996,11 @@ Selfmanagement aspects of the improving chronic illness care breakthrough series
 Follow-up intervention : its effect on compliance behavior to a diabetes regimen . 
 Look who 's -LRB- not -RRB- talking : diabetic patients ' willingness to discuss self-care with physicians . 
 An Internetbased program to improve self-management in adolescents with type 1 diabetes . 
-
+Patient Web portals to improve diabetes outcomes : a systematic review . 
 Mobile intervention design in diabetes : review and recommendations . 
 Assessing psychosocial distress in diabetes : development of the diabetes distress scale . 
 Role of the diabetes nurse educator in improving patient education . 
-
+Implementing practical interventions to support chronic illness selfmanagement . 
 Legislation for health care coverage for diabetes self-management training , equipment and supplies : past , present and future . 
 Clinical audit and standardised follow up improve quality of documentation in diabetes care . 
 Nurse case management to improve glycemic control in diabetic patients in a health maintenance organization . 

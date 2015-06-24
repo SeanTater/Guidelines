@@ -19,20 +19,18 @@ BufferedReader reader = null;
 BufferedWriter out=null;
 Matcher matcher;
 try {
-fis = new FileInputStream("JNC_H/JNC_Trees");
+fis = new FileInputStream("Asthma/Asthma_Trees");
 reader = new BufferedReader(new InputStreamReader(fis));
-out = new BufferedWriter(new FileWriter("JNC_H/JNC_possible"));
+out = new BufferedWriter(new FileWriter("Asthma/Asthma_possible"));
 //System.out.println("Reading File line by line using BufferedReader");
 String line = reader.readLine();
-String storage = "";
-String condition = "";
-String action = "";
 
 Pattern pattern = Pattern.compile("\\((\\S+) (\\S+)\\)");
 Pattern pattern1 = Pattern.compile("\\)");
 Pattern patternIN = Pattern.compile("\\(IN ");
-Pattern patternto = Pattern.compile("\\(TO ");
+Pattern patternTO = Pattern.compile("\\(TO ");
 Pattern patternWH = Pattern.compile("\\(WHADVP ");
+Pattern patternSH = Pattern.compile("\\(MD Should\\)");
 
 Pattern patternp = Pattern.compile("\\)+");
 
@@ -40,10 +38,11 @@ while(line != null){
 
 	matcher = patternIN.matcher(line);
 if(matcher.find()){
-	
 	matcher = patternp.matcher(line);
 	line=matcher.replaceAll(")");
 	matcher = pattern.matcher(line);
+	//line=matcher.replaceAll("($1)");
+	//out.write(line);
 	while (matcher.find()) {
 		out.write(matcher.group(2)+" ");
 
@@ -52,31 +51,54 @@ if(matcher.find()){
 }
 
 else {
-	matcher = patternto.matcher(line);
+	matcher = patternTO.matcher(line);
 	if(matcher.find()){
-		
 		matcher = patternp.matcher(line);
 		line=matcher.replaceAll(")");
-		matcher = pattern.matcher(condition);
+		
+
+		matcher = pattern.matcher(line);
+		//line=matcher.replaceAll("($1)");
+		//out.write(line);
 		while (matcher.find()) {
 			out.write(matcher.group(2)+" ");
 
 	}
 		out.newLine();
-	}
+		}
 	else 
 	{
 		matcher = patternWH.matcher(line);
 		if(matcher.find()){
-			
 			matcher = patternp.matcher(line);
 			line=matcher.replaceAll(")");
-			matcher = pattern.matcher(condition);
+			
+
+			matcher = pattern.matcher(line);
+			//line=matcher.replaceAll("($1)");
+			//out.write(line);
 			while (matcher.find()) {
 				out.write(matcher.group(2)+" ");
 
 		}
-			out.newLine();
+			out.newLine();		}
+		else 
+		{
+			matcher = patternSH.matcher(line);
+			if(matcher.find()){
+				matcher = patternp.matcher(line);
+				line=matcher.replaceAll(")");
+				
+				System.out.println("should");
+				//matcher = pattern.matcher(line);
+				//line=matcher.replaceAll("($1)");
+				while (matcher.find()) {
+					out.write(matcher.group(2)+" ");
+
+			}
+				out.write(line);
+				out.newLine();		}
+			
 		}
 		
 	}
